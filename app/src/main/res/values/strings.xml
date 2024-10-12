@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_15_number_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameArtTV_Hint">Название картины</string>
+    <string name="authorTextVieWTV_Hint">Автор</string>
+</resources>

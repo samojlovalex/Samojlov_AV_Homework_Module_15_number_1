@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width">0dp</dimen>
+
+    <dimen name="nameArt_textSize">25sp</dimen>
+    <dimen name="authorArt_textSize">20sp</dimen>
+
+    <dimen name="margin_CardVieW">8dp</dimen>
+    <dimen name="cardCornerRadius">6dp</dimen>
+    <dimen name="cardElevation">6dp</dimen>
+</resources>
