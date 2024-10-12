@@ -10,6 +10,7 @@ import android.widget.TextView
 import com.example.samojlov_av_homework_module_15_number_1.databinding.FragmentViewPagerBinding
 
 
+@Suppress("DEPRECATION")
 class ViewPagerFragment : Fragment() {
 
     private lateinit var binding: FragmentViewPagerBinding
